@@ -1,6 +1,6 @@
 # Azure DevOps Integration MCP Extension
 
-Sync user stories and tasks from Spec Kit to Azure DevOps work items using OAuth authentication (no PAT tokens required).
+Sync user stories and tasks from Spec Kit to Azure DevOps work items using Azure DevOps MCP.
 
 ## Features
 
