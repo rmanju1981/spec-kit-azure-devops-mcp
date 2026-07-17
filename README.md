@@ -17,7 +17,7 @@ Sync user stories and tasks from Spec Kit to Azure DevOps work items using Azure
 
 ```bash
 # Install Directly by URL
-specify extension add azure-devops --from https://github.com/rmanju1981/spec-kit-azure-devops-mcp/archive/refs/tags/v1.0.0.zip
+specify extension add azure-devops-mcp --from https://github.com/rmanju1981/spec-kit-azure-devops-mcp/archive/refs/tags/v1.0.0.zip
 ```
 
 ## Prerequisites
